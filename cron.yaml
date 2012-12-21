@@ -1,5 +1,0 @@
-cron:
-
-- description: Check for the latest bookmarks
-  url: /cron/checkBookmarks
-  schedule: every 10 minutes
