@@ -1,6 +1,6 @@
 ![Screen Shot](http://cattopus23.com/img/panel-CAT804.png)
 
-CAT804-instapaper-liker
+CAT804 Instapaper Liker
 =======================
 
 A tiny AppEngine python cron job to look through the latest 25 bookmarks in an instapaper account and star/like all the ones that haven't been starred/liked. Checks every 10 minutes. You'll need to add your own _USERNAME and _PASSWORD
